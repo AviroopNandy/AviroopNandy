@@ -67,7 +67,7 @@
 			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=AviroopNandy&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=false" alt="GitHub Stats" />
 		</td>
 		<td>
-			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviroopNandy&layout=compact&theme=tokyonight" alt="Top Langs" />
+			<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=AviroopNandy&theme=tokyonight" alt="Aviroop Nandy's GitHub Streak" />
 		</td>
 	</tr>
 	</a>
@@ -82,7 +82,7 @@
 				<img width="100%" height="auto" src="wakatime-aviroopnandy2001gmail.com-e196a96a272748bab1e17ee454e7e577" alt="Wakatime Stats" />
 			</td>
 			<td>
-				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=AviroopNandy&theme=tokyonight" alt="Aviroop Nandy's GitHub Streak" />
+				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviroopNandy&layout=compact&theme=tokyonight" alt="Top Langs" />
 			</td>
 		</tr>
 	</table>
