@@ -1,9 +1,8 @@
-### Hi there 👋🏽
-<h2 align="center"> I'm Aviroop ✌🏽</h2>
+<h1 align="center"> I'm Aviroop ✌🏽</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏽‍💻•💻 About Me </h3>
+<h2> 👨🏽‍💻 About Me </h2>
 
 
 
@@ -15,7 +14,7 @@
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h2>🛠 Tech Stack</h2>
 
 
 
@@ -109,13 +108,13 @@
 
 
 
-<h3> 🤝🏽 Connect with Me </h3>
+<h2> 🤝🏽 Connect with Me </h2>
 
 <br>
 
 
 
-<p align='center'>
+<p align="center">
 	
 	<a href = 'https://github.com/AviroopNandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45' /></a>
 	
