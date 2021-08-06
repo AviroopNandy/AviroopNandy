@@ -59,12 +59,12 @@
 
 <table tableborder=0>
 	<tr>		
-		<th width="50%"><a align="center" href="https://github.com/AviroopNandy?tab=overview#year-list-container">✨ wakatime stats</a></th>
-		<th width="50%"><a align="center" href="https://github.com/AviroopNandy?tab=repositories">🌟 Top Lanaguages</a></th>
+		<th width="50%"><a align="center" href="https://github.com/AviroopNandy?tab=overview#year-list-container">✨ GitHub Stats</a></th>
+		<th width="50%"><a align="center" href="https://github.com/AviroopNandy?tab=repositories">🌟 Top Languages</a></th>
 	</tr>
 	<tr>
 		<td>					
-			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=AviroopNandy&show_icons=true)](https://github.com/AviroopNandy)" alt="GitHub Stats" />
+			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=AviroopNandy&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/AviroopNandy)" alt="GitHub Stats" />
 		</td>
 		<td>
 			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviroopNandy&layout=compact&theme=tokyonight" alt="Top Langs" />
