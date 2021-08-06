@@ -74,12 +74,12 @@
 </table>
 
 <details>
-	<summary><strong> 🌟 GitHub Stats </strong></summary>
+	<summary><strong> 🌟 GitHub Stats </strong></summary><br/>
 	<table>
 		<a align="center" href="https://github.com/AviroopNandy">
 		<tr>
 			<td>					
-				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
+				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=AviroopNandy&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
 			</td>
 			<td>
 				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=AviroopNandy&theme=tokyonight" alt="Aviroop Nandy's GitHub Streak" />
@@ -99,7 +99,7 @@
 		</tr>
 		</a>
 	</table>
-<!-- </details> -->
+</details>
 
 <br><br>
 
