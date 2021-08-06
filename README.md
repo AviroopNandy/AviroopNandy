@@ -115,21 +115,19 @@
 
 
 
-<p align="center">
+<p align='center'>
+	
+	<a href = 'https://github.com/AviroopNandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45' /></a>
+	
+	<a href = 'https://linkedin.com/in/aviroop-nandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
+	
+	<a href = 'https://instagram.com/aviroop_nandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
+	
+	<a href = 'https://www.facebook.com/cryptus.neoxys/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='45' weight='45'/></a>
+	
+	<a href='mailto:aviroopnandy2001@gmail.com' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='45' weight='45' /></a>
 
-<a href = 'https://github.com/AviroopNandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45' /></a>
-<a href = 'https://linkedin.com/in/aviroop-nandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
-<a href = 'https://instagram.com/aviroop_nandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
-<a href = 'https://www.facebook.com/cryptus.neoxys/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='45' weight='45'/></a>
-<a href='mailto:aviroopnandy2001@gmail.com' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='45' weight='45' /></a>
-
-<a href="https://aviroopnandy.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/aviroopnandy.vercel.app-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/aviroop-nandy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+	<a href="https://aviroopnandy.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/aviroopnandy.vercel.app-black?style=flat-square&logo=google-chrome"></a>
 
 </p>
 
