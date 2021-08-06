@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Aviroop ✌🏽</h1>
+<h1 align="center">Hey there! I'm Aviroop ✌🏽</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -6,11 +6,11 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Studying Computer Science and Engineering at VIT Vellore, 3rd year, Computer Science.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at VIT Vellore, 3rd year, Computer Science.
+- 🎓 &nbsp; Pursuing Web Development as a side hustle.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Playing the guitar as a hobby.
 
 
 
@@ -115,19 +115,15 @@
 
 
 <p align="center">
-	
 	<a href = 'https://github.com/AviroopNandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45' /></a>
-	
 	<a href = 'https://linkedin.com/in/aviroop-nandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
-	
 	<a href = 'https://instagram.com/aviroop_nandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
-	
 	<a href = 'https://www.facebook.com/cryptus.neoxys/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='45' weight='45'/></a>
-	
 	<a href='mailto:aviroopnandy2001@gmail.com' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='45' weight='45' /></a>
+</p>
 
+<p align="center">
 	<a href="https://aviroopnandy.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/aviroopnandy.vercel.app-black?style=flat-square&logo=google-chrome"></a>
-
 </p>
 
 
