@@ -78,9 +78,9 @@
 	<table>
 		<a align="center" href="https://github.com/AviroopNandy">
 		<tr>
-			<td>					
+<!-- 			<td>					
 				<img width="100%" height="auto" src="wakatime-aviroopnandy2001gmail.com-e196a96a272748bab1e17ee454e7e577" alt="Wakatime Stats" />
-			</td>
+			</td> -->
 			<td>
 				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviroopNandy&layout=compact&theme=tokyonight" alt="Top Langs" />
 			</td>
