@@ -79,7 +79,7 @@
 		<a align="center" href="https://github.com/AviroopNandy">
 		<tr>
 			<td>					
-				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=AviroopNandy&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
+				<img width="100%" height="auto" src="wakatime-aviroopnandy2001gmail.com-e196a96a272748bab1e17ee454e7e577" alt="Wakatime Stats" />
 			</td>
 			<td>
 				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=AviroopNandy&theme=tokyonight" alt="Aviroop Nandy's GitHub Streak" />
