@@ -44,7 +44,7 @@
 -->
 
 <br/><br/>
-
+<!--
 [![Aviroop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AviroopNandy&show_icons=true)](https://github.com/AviroopNandy)
 
 <br/>
@@ -54,6 +54,52 @@
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AviroopNandy&show_icons=true)
+
+-->
+
+<table tableborder=0>
+	<tr>		
+		<th width="50%"><a align="center" href="https://github.com/cryptus-neoxys?tab=overview#year-list-container">✨ wakatime stats</a></th>
+		<th width="50%"><a align="center" href="https://github.com/cryptus-neoxys?tab=repositories">🌟 Top Lanaguages</a></th>
+	</tr>
+	<tr>
+		<td>					
+			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
+		</td>
+		<td>
+			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact&theme=tokyonight" alt="Top Langs" />
+		</td>
+	</tr>
+	</a>
+</table>
+
+<details>
+	<summary><strong> 🌟 GitHub Stats </strong></summary>
+	<table>
+		<a align="center" href="https://github.com/cryptus-neoxys">
+		<tr>
+			<td>					
+				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=false" alt="Git Stats" />
+			</td>
+			<td>
+				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptus-neoxys&theme=tokyonight" alt="Dev Sharma's GitHub Streak" />
+			</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>
+				<img width="100%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=cryptus-neoxys&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
+			</td>
+		</tr>
+		<tr colspan="2">
+			<td>
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptus-neoxys&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+			</td>
+		</tr>
+		</a>
+	</table>
+</details>
 
 <br><br>
 
