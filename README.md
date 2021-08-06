@@ -73,13 +73,13 @@
 	</a>
 </table>
 
-<!-- <details> -->
-<!-- 	<summary><strong> 🌟 GitHub Stats </strong></summary> -->
-	<table tableborder=0>
+<details>
+	<summary><strong> 🌟 GitHub Stats </strong></summary>
+	<table>
 		<a align="center" href="https://github.com/AviroopNandy">
 		<tr>
 			<td>					
-				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=AviroopNandy&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=false" alt="Git Stats" />
+				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
 			</td>
 			<td>
 				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=AviroopNandy&theme=tokyonight" alt="Aviroop Nandy's GitHub Streak" />
