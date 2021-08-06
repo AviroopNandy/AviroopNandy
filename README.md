@@ -64,7 +64,7 @@
 	</tr>
 	<tr>
 		<td>					
-			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=AviroopNandy&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
+			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=AviroopNandy&show_icons=true)](https://github.com/AviroopNandy)" alt="GitHub Stats" />
 		</td>
 		<td>
 			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviroopNandy&layout=compact&theme=tokyonight" alt="Top Langs" />
