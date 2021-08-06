@@ -56,6 +56,8 @@
 
 -->
 
+<!-- github-readme-stats.vercel.app/ -->
+
 <table tableborder=0>
 	<tr>		
 		<th width="50%"><a align="center" href="https://github.com/AviroopNandy?tab=overview#year-list-container">✨ GitHub Stats</a></th>
@@ -63,7 +65,7 @@
 	</tr>
 	<tr>
 		<td>					
-			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=AviroopNandy&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=false" alt="GitHub Stats" />
+			<img width="100%" height="auto" src="https://https://aviroop-nandy.vercel.app/api?username=AviroopNandy&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=false" alt="GitHub Stats" />
 		</td>
 		<td>
 			<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=AviroopNandy&theme=tokyonight" alt="Aviroop Nandy's GitHub Streak" />
