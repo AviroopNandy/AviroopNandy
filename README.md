@@ -74,7 +74,7 @@
 </table>
 
 <!-- <details> -->
-	<summary><strong> 🌟 GitHub Stats </strong></summary>
+<!-- 	<summary><strong> 🌟 GitHub Stats </strong></summary> -->
 	<table>
 		<a align="center" href="https://github.com/AviroopNandy">
 		<tr>
