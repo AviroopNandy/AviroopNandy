@@ -6,11 +6,11 @@
 
 
 
-- 🤔 &nbsp; Studying Computer Science and Engineering at VIT Vellore, 3rd year.
+- 🎓 &nbsp; Studying Computer Science and Engineering at VIT Vellore, 3rd year.
 
-- 🎓 &nbsp; Pursuing Web Development as a side hustle.
+- 👨🏽‍💻 &nbsp; Pursuing Web Development as a side hustle.
 
-- ✍️ &nbsp; Playing the guitar as a hobby.
+- 🎸 &nbsp; Playing the guitar as a hobby.
 
 
 
