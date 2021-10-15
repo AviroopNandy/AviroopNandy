@@ -26,35 +26,7 @@
 
 - 🔧 &nbsp; Git
 
-<!--
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-<!--
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | flask
-
-<hr>
-
--->
-
 <br/><br/>
-<!--
-[![Aviroop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AviroopNandy&show_icons=true)](https://github.com/AviroopNandy)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AviroopNandy&show_icons=true)
-
--->
 
 <table tableborder=0>
 	<tr>		
@@ -118,7 +90,7 @@
 	<a href = 'https://github.com/AviroopNandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45' /></a>
 	<a href = 'https://linkedin.com/in/aviroop-nandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
 	<a href = 'https://instagram.com/aviroop_nandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
-	<a href = 'https://www.facebook.com/cryptus.neoxys/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='45' weight='45'/></a>
+	<a href = 'https://www.facebook.com/profile.php?id=100010841565783' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='45' weight='45'/></a>
 	<a href='mailto:aviroopnandy2001@gmail.com' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='45' weight='45' /></a>
 </p>
 
