@@ -20,7 +20,7 @@
 
 - 💻 &nbsp; C | C++ | Java
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Material UI
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NextJS | TypeScript
 
 - 🛢 &nbsp; Node | Express | MongoDB | MySQL
 
