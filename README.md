@@ -89,7 +89,7 @@
 <p align="center">
 	<a href = 'https://github.com/AviroopNandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45' /></a>
 	<a href = 'https://linkedin.com/in/aviroop-nandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
-	<a href = 'https://instagram.com/aviroop_nandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
+	<a href = 'https://instagram.com/aviroop.nandy' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 	<a href = 'https://www.facebook.com/profile.php?id=100010841565783' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='45' weight='45'/></a>
 	<a href='mailto:aviroopnandy2001@gmail.com' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='45' weight='45' /></a>
 </p>
