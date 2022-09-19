@@ -6,7 +6,7 @@
 
 
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at VIT Vellore, 3rd year.
+- 🎓 &nbsp; Studying Computer Science and Engineering at VIT Vellore, 4th year.
 
 - 👨🏽‍💻 &nbsp; Pursuing Web Development as a side hustle.
 
