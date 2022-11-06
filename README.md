@@ -72,13 +72,14 @@
 	</table>
 </details>
 
-<br><br>
-
 
 
 <h2>My Holopin Board</h2>
+
 [![@aviroopnandy's Holopin board](https://holopin.me/aviroopnandy)](https://holopin.io/@aviroopnandy)
 
+
+<br><br>
 
 
 <hr>
